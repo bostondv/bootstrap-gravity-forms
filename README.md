@@ -1,5 +1,4 @@
-bootstrap3_gravity_forms_sass
-=============================
+# Bootstrap 3 Gravity Forms SCSS Asset
 
 Bootstrap 3 SCSS asset to style popular WordPress forms building plugin Gravity Forms
 
@@ -15,3 +14,7 @@ After downloading and activating Gravity Forms you’ll need to change a couple 
 
 * Set Output CSS to No
 * Set Output HTML5 to Yes
+
+## Screenshots
+
+![Folkhack's Bootstrap3 Gravity Forms SCSS Kitchen-sink](/screenshots/kitchen_sink_1.jpg?raw=true "Folkhack's Bootstrap3 Gravity Forms SCSS Kitchen-sink")
