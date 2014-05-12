@@ -17,4 +17,4 @@ After downloading and activating Gravity Forms you’ll need to change a couple 
 
 ## Screenshots
 
-![Folkhack's Bootstrap3 Gravity Forms SCSS Kitchen-sink](/screenshots/kitchen_sink_1.jpg?raw=true "Folkhack's Bootstrap3 Gravity Forms SCSS Kitchen-sink")
+![Folkhack's Bootstrap3 Gravity Forms SCSS Kitchen-sink](/screenshots/kitchen_sink_1.png?raw=true "Folkhack's Bootstrap3 Gravity Forms SCSS Kitchen-sink")
